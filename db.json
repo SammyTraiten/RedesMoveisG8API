@@ -1,0 +1,72 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "username": "Sammy",
+      "email": "josecarlosferreira77jc@gmail.com",
+      "password": "123321",
+      "nome": "José Carlos",
+      "pais": "Inglaterra",
+      "kmspercorridos": 1310.52,
+      "tempomedio": 13.73
+    },
+    {
+      "id": 2,
+      "username": "SammyXx",
+      "email": "josecarlosferreira77jcjc@gmail.com",
+      "password": "123321",
+      "nome": "jose",
+      "pais": "Portugal",
+      "kmspercorridos": 0,
+      "tempomedio": 0
+    }
+  ],
+  "SearchHistory": [
+    {
+      "id": 1,
+      "idutilizador": 1,
+      "origem": [
+        "EM1193, 4880, Portugal"
+      ],
+      "destino": [
+        "Praça de Mouzinho de Albuquerque 136, 4050-327 Porto, Portugal"
+      ],
+      "kms": 92.77,
+      "tempo": 1.05,
+      "data": "11,6,2021"
+    },
+    {
+      "id": 2,
+      "idutilizador": 1,
+      "origem": [
+        "EM1193, 4880, Portugal"
+      ],
+      "destino": [
+        "16 Avenue du Québec, 91961 Courtabœuf Cedex, France"
+      ],
+      "kms": 1217.75,
+      "tempo": 12.68,
+      "data": "11,6,2021"
+    }
+  ],
+  "Chat": [
+    {
+      "id": 1,
+      "username": "Sammy",
+      "pais": "Portugal",
+      "mensagem": "hello"
+    },
+    {
+      "id": 2,
+      "username": "Joao",
+      "pais": "Portugal",
+      "mensagem": "hello"
+    },
+    {
+      "id": 3,
+      "username": "Alo",
+      "pais": "Inglaterra",
+      "mensagem": "hello"
+    }
+  ]
+}
