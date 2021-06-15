@@ -52,21 +52,24 @@
   "Chat": [
     {
       "id": 1,
+      "iduti": 1,
       "username": "Sammy",
-      "pais": "Portugal",
-      "mensagem": "hello"
+      "pais": "Inglaterra",
+      "mensagem": "alo"
     },
     {
       "id": 2,
-      "username": "Joao",
-      "pais": "Portugal",
-      "mensagem": "hello"
+      "iduti": 3,
+      "username": "Sammy",
+      "pais": "Inglaterra",
+      "mensagem": "tudo bem?"
     },
     {
       "id": 3,
-      "username": "Alo",
+      "iduti": 1,
+      "username": "Sammy",
       "pais": "Inglaterra",
-      "mensagem": "hello"
+      "mensagem": "yo"
     }
   ]
 }
