@@ -6,16 +6,16 @@
       "email": "josecarlosferreira77jc@gmail.com",
       "password": "123321",
       "nome": "José Carlos",
-      "pais": "Inglaterra",
-      "kmspercorridos": 1310.52,
-      "tempomedio": 13.73
+      "pais": "Portugal",
+      "kmspercorridos": 0,
+      "tempomedio": 0
     },
     {
       "id": 2,
-      "username": "SammyXx",
-      "email": "josecarlosferreira77jcjc@gmail.com",
+      "username": "João",
+      "email": "joao@gmail.com",
       "password": "123321",
-      "nome": "jose",
+      "nome": "João Martins",
       "pais": "Portugal",
       "kmspercorridos": 0,
       "tempomedio": 0
@@ -26,27 +26,14 @@
       "id": 1,
       "idutilizador": 1,
       "origem": [
-        "EM1193, 4880, Portugal"
+        "R. Raposeira 2015, 4805 Nespereira, Portugal"
       ],
       "destino": [
         "Praça de Mouzinho de Albuquerque 136, 4050-327 Porto, Portugal"
       ],
-      "kms": 92.77,
-      "tempo": 1.05,
-      "data": "11,6,2021"
-    },
-    {
-      "id": 2,
-      "idutilizador": 1,
-      "origem": [
-        "EM1193, 4880, Portugal"
-      ],
-      "destino": [
-        "16 Avenue du Québec, 91961 Courtabœuf Cedex, France"
-      ],
-      "kms": 1217.75,
-      "tempo": 12.68,
-      "data": "11,6,2021"
+      "kms": 50.57,
+      "tempo": 0.63,
+      "data": "20,6,2021"
     }
   ],
   "Chat": [
@@ -54,22 +41,15 @@
       "id": 1,
       "iduti": 1,
       "username": "Sammy",
-      "pais": "Inglaterra",
-      "mensagem": "alo"
+      "pais": "Portugal",
+      "mensagem": "Olá"
     },
     {
-      "id": 2,
-      "iduti": 3,
-      "username": "Sammy",
-      "pais": "Inglaterra",
-      "mensagem": "tudo bem?"
-    },
-    {
-      "id": 3,
-      "iduti": 1,
-      "username": "Sammy",
-      "pais": "Inglaterra",
-      "mensagem": "yo"
+      "id": 1,
+      "iduti": 2,
+      "username": "João",
+      "pais": "Portugal",
+      "mensagem": "Ola, tudo bem?"
     }
   ]
 }
